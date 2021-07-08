@@ -5,8 +5,8 @@ A novel approach to rating a team's regular season performance.
 
 #### User Guide:
 
-- Install dependencies per requirements.txt (preferably use `pip install`)
-- `python3 teams_over_time.py` or `python teams_over_time.py` (depending on your machine/environment's path to Python 3)
+- Install dependencies per requirements.txt (preferably use `pip3 install -r requirements.txt` or whatever works best on your environment)
+- `python3 teams_over_time.py` or `python teams_over_time.py` (depending on your environment's path to Python 3)
 - Have fun!
 
 ### Pure Game Metric Explained
