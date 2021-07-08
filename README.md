@@ -5,7 +5,7 @@ A novel approach to rating a team's regular season performance.
 
 #### User Guide:
 
-- Install dependencies per requirements.txt (preferably use `pip3 install -r requirements.txt` or whatever works best on your environment)
+- `pip3 install -r requirements.txt` or whatever works best to install the dependencies on your environment
 - `python3 teams_over_time.py` or `python teams_over_time.py` (depending on your environment's path to Python 3)
 - Have fun!
 
